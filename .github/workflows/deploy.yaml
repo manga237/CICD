@@ -1,4 +1,4 @@
-name: CI-CD de test
+name: CI-CD de test sur main
 on:
   pull_request:
     branches: [main]
