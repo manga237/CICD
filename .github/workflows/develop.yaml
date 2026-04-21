@@ -2,8 +2,7 @@ name: CI-CD de test sur develop
 on:
   pull_request:
     branches: [develop]
-  push:
-    branches: [develop]
+
 
 jobs:
   develop_build:
